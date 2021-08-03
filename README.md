@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-![Repo Image](./repo_image.png)
+![Repo Image](./image.png)
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
